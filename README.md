@@ -5,7 +5,7 @@ Declare a var
 ```delphi
 myFSM : TFSM
 ```
-Declare type of your states and commands in AEStateMachine
+Declare type of your states and commands
 ```delphi
 TProcessState = (SInactive, SActive, SPaused, STerminated);
 TCommand = (CBegin, CEnd, CPause, CResume, CExit);
