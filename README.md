@@ -29,3 +29,6 @@ How to change state, simple use MoveNext function and provide one of the TComman
 ```delphi
 myFSM.MoveNext(CBegin);
 ```
+
+
+source: https://stackoverflow.com/questions/5923767/simple-state-machine-example-in-c
